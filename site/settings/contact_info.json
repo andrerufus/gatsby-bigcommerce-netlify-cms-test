@@ -1,3 +1,9 @@
 {
-    
+  "phone": "123456789",
+  "email": "mail@mail.com",
+  "address,": {
+    "street": "London",
+    "street2": "road",
+    "city": "London"
+  }
 }
