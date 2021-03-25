@@ -61,9 +61,9 @@ collections:
   - name: "settings"
     label: "Settings"
     files:
-      - file: "src/settings/contact_info.json"
-        label: "Contact Info"
+      - label: "Contact Info"
         name: "contact_info"
+        file: "src/settings/contact_info.json"
         fields:
           - {label: Phone, name: phone, widget: string}
           - {label: Email, name: email, widget: image}
