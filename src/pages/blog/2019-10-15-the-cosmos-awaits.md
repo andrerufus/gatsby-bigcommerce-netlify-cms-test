@@ -1,10 +1,14 @@
 ---
 templateKey: blog-post
-title: The Cosmos Awaits
+title: The Cosmos Awaits 1
 date: 2019-10-15T15:11:15.000Z
+description: >-
+  Radio telescope vastness is bearable only through love stirred by starlight
+  billions upon billions not a sunrise but a galaxyrise circumnavigated. How far
+  away Apollonius of Perga Apollonius of Perga shores of the cosmic ocean
+  permanence of the stars astonishment?
 featuredpost: false
 featuredimage: /img/accessory-art.jpg
-description: Radio telescope vastness is bearable only through love stirred by starlight billions upon billions not a sunrise but a galaxyrise circumnavigated. How far away Apollonius of Perga Apollonius of Perga shores of the cosmic ocean permanence of the stars astonishment?
 tags:
   - cosmos
   - sagan
