@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: The Cosmos Awaits 1
+title: The Cosmos Awaits test
 date: 2019-10-15T15:11:15.000Z
 description: >-
   Radio telescope vastness is bearable only through love stirred by starlight
